@@ -47,6 +47,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
     implementation 'com.google.firebase:firebase-bom:31.2.2'
     //firebase real time database dependency
-    implementation 'com.google.firebase:firebase-analytics:17.5.0'
+    implementation 'com.google.firebase:firebase-analytics:21.2.0'
+    implementation "com.google.android.material:material:1.9.0-alpha01"
 
 }
